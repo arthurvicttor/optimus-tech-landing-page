@@ -1,0 +1,32 @@
+@import url('./cabecalho.css');
+@import url('./sobre-nos.css');
+
+
+:root{
+    --branco: #ffffff;
+    --vermelho: #8E2424;
+    --cinza-claro: #667085;
+    --preto: #101828;
+    --fonte-principal: 'Inter', sans-serif;
+}
+
+
+
+body {
+    background-color: var(--branco);
+    height: 100vh;
+    font-family: var(--fonte-principal);
+    font-size: 1em;
+    font-weight: 400;
+    width: 100%;
+}
+
+h1, h2, h3, h4, h5, h6 {
+    margin: 0;
+    padding: 0;
+}
+
+ul, li {
+    list-style: none;
+    padding: 0
+}
