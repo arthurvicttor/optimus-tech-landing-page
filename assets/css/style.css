@@ -1,6 +1,7 @@
 @import url('./cabecalho.css');
 @import url('./sobre-nos.css');
 @import url('./metricas.css');
+@import url('./vagas.css');
 
 
 :root{
@@ -15,19 +16,10 @@
 
 body {
     background-color: var(--branco);
+    color: var(--preto);
     height: 100vh;
     font-family: var(--fonte-principal);
     font-size: 1em;
     font-weight: 400;
     width: 100%;
-}
-
-h1, h2, h3, h4, h5, h6 {
-    margin: 0;
-    padding: 0;
-}
-
-ul, li {
-    list-style: none;
-    padding: 0
 }
