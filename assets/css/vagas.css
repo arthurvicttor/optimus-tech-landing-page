@@ -1,5 +1,5 @@
 .vagas{
-    padding: 3em 2em;
+    padding: 6em 2em;
 }
 
 .vagas__talento{
@@ -22,6 +22,10 @@
     color: var(--cinza-claro);
     font-size: 20px;
     margin-bottom: 3em;
+}
+
+.vagas__imagem{
+    width: 70%;
 }
 
 .vagas__abertas{

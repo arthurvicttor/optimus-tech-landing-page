@@ -1,7 +1,7 @@
 .metricas-container{
     display: flex;
     justify-content: space-around;
-    padding-bottom: 3em;
+    padding: 6em 0;
 }
 
 .metricas{
